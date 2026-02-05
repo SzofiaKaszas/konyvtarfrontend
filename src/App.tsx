@@ -125,7 +125,9 @@ function App() {
           </div>
         </form>
       </main>
-      <footer></footer>
+      <footer>
+        <p>Kaszás Szófia</p>
+      </footer>
     </>
   );
 }
